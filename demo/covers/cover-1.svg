@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 225" width="400" height="225">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1d4ed8"/><stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="225" fill="url(#g1)"/>
+  <circle cx="60" cy="180" r="70" fill="#ffffff" opacity="0.08"/>
+  <circle cx="350" cy="40" r="55" fill="#ffffff" opacity="0.10"/>
+  <circle cx="200" cy="112" r="34" fill="#ffffff" opacity="0.92"/>
+  <polygon points="190,94 190,130 222,112" fill="#1d4ed8"/>
+  <text x="200" y="186" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="16" font-weight="700" fill="#ffffff">宝妈喂养焦虑 · 口播实拍</text>
+  <text x="24" y="34" font-family="sans-serif" font-size="11" fill="#dbeafe">演示素材封面</text>
+</svg>
