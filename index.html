@@ -440,11 +440,11 @@ ${p.join(`
   function drawWatermark(){
     try{
       var canvas = document.createElement('canvas');
-      canvas.width = 240; canvas.height = 120;
+      canvas.width = 360; canvas.height = 180;
       var ctx = canvas.getContext('2d');
       ctx.rotate(-Math.PI/4);
-      ctx.font = '16px Arial';
-      ctx.fillStyle = 'rgba(100,100,100,0.35)';
+      ctx.font = '15px Arial';
+      ctx.fillStyle = 'rgba(100,100,100,0.18)';
       ctx.fillText('Owned by \u6df1\u5733\u6b63\u9633', -60, 100);
       var div = document.createElement('div');
       div.id = 'global-watermark';
